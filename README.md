@@ -22,5 +22,3 @@
 | ![CSS3](https://img.icons8.com/color/30/css3.png) 
 | ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 | ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-
-- Learning
