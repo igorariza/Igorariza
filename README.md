@@ -26,3 +26,8 @@
 - Learning
 
 | [<img src="https://user-images.githubusercontent.com/18409088/129431224-fdf06fd0-6459-4fbc-8920-aa3e324759ea.png" alt="node logo" width="28">](https://.java.com)
+
+
+[![Igor Ariza GitHub stats](https://github-readme-stats.vercel.app/api?username=igorariza&count_private=true&show_icons=true&theme=radical)](https://github.com/igorariza)
+
+
