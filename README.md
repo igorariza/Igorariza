@@ -33,6 +33,10 @@
 | [<img src="https://user-images.githubusercontent.com/18409088/129431224-fdf06fd0-6459-4fbc-8920-aa3e324759ea.png" alt="node logo" width="28">](https://.java.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464540-562036b9-986c-4e33-9c62-fa45ddfbd1a0.png" alt="adobe logo" width="28">](https://.com)
 |
+## Reading
+**Supercerebro** - *Deepak Chopra* - [book](https://www.amazon.com/-/es/Rudolph-Tanzi-Ph-D/dp/0307956830/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A87X37K64H61&dchild=1&keywords=super+cerebro+deepak+chopra&qid=1628996608&sprefix=super+cere%2Caps%2C314&sr=8-3)
+| [<img src="https://user-images.githubusercontent.com/18409088/129465496-16793a8e-eadb-44a3-a2b2-5a89f7ff0301.jpg" alt="node logo" width="28">](https://.java.com)
+|
 
 
 <!-- [![Igor Ariza GitHub stats](https://github-readme-stats.vercel.app/api?username=igorariza&count_private=true&show_icons=true&theme=radical)](https://github.com/igorariza) -->
