@@ -37,7 +37,7 @@
 | [<img src="https://user-images.githubusercontent.com/18409088/129464063-a5fe6a86-7d4f-48bd-be3b-6d6948df0423.png" alt="adobe logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464226-5faa4ae8-9f12-4fa2-9893-25546872432a.png" alt="adobe logo" width="48">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464540-562036b9-986c-4e33-9c62-fa45ddfbd1a0.png" alt="adobe logo" width="28">](https://.com)
-| [<img src="https://user-images.githubusercontent.com/18409088/130371683-29373d81-7c47-4e66-ac93-943a958c0706.png" alt="adobe logo" width="38">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/130371683-29373d81-7c47-4e66-ac93-943a958c0706.png" alt="adobe logo" width="48">](https://.com)
 
 
 - Current readign
