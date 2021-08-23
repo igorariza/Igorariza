@@ -21,6 +21,8 @@
 | ![CSS3](https://img.icons8.com/color/30/css3.png) 
 | ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 | [<img src="https://user-images.githubusercontent.com/18409088/129264702-596502a1-f211-4777-a2e6-0b759f582988.png" alt="mysql logo" width="24">](https://www.mysql.com/)
+| [<img src="https://user-images.githubusercontent.com/18409088/130375655-11dbf253-889b-4da7-97bd-4f2f3913c61d.png" alt="mysql logo" width="30">](https://www.postgresql.com/)
+| [<img src="https://user-images.githubusercontent.com/18409088/130375740-1a1fa1da-08e2-453c-81e9-bedc9fdd4ff7.png" alt="mysql logo" width="30">](https://www.firebase.com/)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464268-5364c8be-32e4-479c-b8d7-b7af76ba9529.png" alt="adobe logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464048-000ca064-ef33-4172-9429-8e710646c6b1.png" alt="adobe logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464063-a5fe6a86-7d4f-48bd-be3b-6d6948df0423.png" alt="adobe logo" width="28">](https://.com)
@@ -39,6 +41,8 @@
 | [<img src="https://user-images.githubusercontent.com/18409088/129431542-7c12924f-97c9-4b85-be53-295cfd7af335.png" alt="arduino logo" width="38">](https://)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464540-562036b9-986c-4e33-9c62-fa45ddfbd1a0.png" alt="adobe logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/130371683-29373d81-7c47-4e66-ac93-943a958c0706.png" alt="adobe logo" width="48">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/130375861-07fb1a0c-1248-46a2-bdcb-56282adfb4a2.png" alt="adobe logo" width="38">](https://.com)
+
 
 
 - Current readign
