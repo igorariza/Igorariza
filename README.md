@@ -20,6 +20,7 @@
 | ![HTML5](https://img.icons8.com/color/30/html-5.png)
 | ![CSS3](https://img.icons8.com/color/30/css3.png) 
 | ![JavaScript](https://img.icons8.com/color/30/javascript.png)
+| [<img src="https://user-images.githubusercontent.com/18409088/129264702-596502a1-f211-4777-a2e6-0b759f582988.png" alt="mysql logo" width="24">](https://www.mysql.com/)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464268-5364c8be-32e4-479c-b8d7-b7af76ba9529.png" alt="adobe logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464048-000ca064-ef33-4172-9429-8e710646c6b1.png" alt="adobe logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129464063-a5fe6a86-7d4f-48bd-be3b-6d6948df0423.png" alt="adobe logo" width="28">](https://.com)
