@@ -7,7 +7,6 @@
 </h1>
 
 ### Programming Languages 🌐
-
 - Know/Using
 
 | [<img src="https://user-images.githubusercontent.com/18409088/129100018-c75e1ca5-3c0d-4f2a-949a-2d376aae09be.png" alt="react native logo" width="24">](https://reactnative.dev/)
