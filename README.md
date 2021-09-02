@@ -39,10 +39,10 @@
 
 - student online
 
-| [<img src="https://user-images.githubusercontent.com/18409088/131918298-70bbb7eb-8351-4eef-945d-fe536a1726c9.jpg" alt="Univalle logo" width="18">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/131918298-70bbb7eb-8351-4eef-945d-fe536a1726c9.jpg" alt="Univalle logo" width="18">](https://univalle.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/131918165-72527a8a-cc01-4243-a398-f7b2ea1fb4f1.jpg" alt="platzi logo" width="28">](https://platzi.com)
-| [<img src="https://user-images.githubusercontent.com/18409088/131918882-5d3c9409-3935-42ab-8b6c-f3c372134300.png" alt="udemy logo" width="28">](https://.com)
-| [<img src="https://user-images.githubusercontent.com/18409088/131919452-56f2913e-83c5-407f-bf79-35d4a56d3fef.png" alt="coursera logo" width="28">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/131918882-5d3c9409-3935-42ab-8b6c-f3c372134300.png" alt="udemy logo" width="28">](https://udemy.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/131919452-56f2913e-83c5-407f-bf79-35d4a56d3fef.png" alt="coursera logo" width="28">](https://coursera.com)
 |
 
 - Hobbie
