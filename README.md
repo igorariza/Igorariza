@@ -33,6 +33,7 @@
 | [<img src="https://user-images.githubusercontent.com/18409088/129431224-fdf06fd0-6459-4fbc-8920-aa3e324759ea.png" alt="node logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/130371521-153cf08c-958b-4775-87b0-42694ec3dd72.png" alt="kubernetes logo" width="28">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/130371581-5ab1814a-a489-4a23-ac2c-e780a416aa3f.png" alt="node logo" width="38">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/131878932-1bbf611f-a6d3-4147-bfa9-2ff699fca043.png" alt="flutter logo" width="48">](https://.com)
 |
 
 - Hobbie
