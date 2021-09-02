@@ -43,12 +43,13 @@
 | [<img src="https://user-images.githubusercontent.com/18409088/130375861-07fb1a0c-1248-46a2-bdcb-56282adfb4a2.png" alt="adobe logo" width="38">](https://.com)
 
 
-- Current readign
-Domótica E Inmótica Instalaciones De Telecomunicaciones. - *Carlos Fernandez Valdivielso (Autor)* - [book](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
+- Current readign <br>
+Domótica E Inmótica Instalaciones De Telecomunicaciones. - *Carlos Fernandez Valdivielso (Autor)* - 
+[book](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
 | [<img src="https://user-images.githubusercontent.com/18409088/131766995-e7e25671-d6cc-4ead-a7ba-1719d182a7f2.jpg" alt="book logo" width="28">](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
 |
 
-- Lastet readign
+- Lastet readign <br>
 Supercerebro - *Deepak Chopra* - [book](https://www.amazon.com/-/es/Rudolph-Tanzi-Ph-D/dp/0307956830/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A87X37K64H61&dchild=1&keywords=super+cerebro+deepak+chopra&qid=1628996608&sprefix=super+cere%2Caps%2C314&sr=8-3)
 | [<img src="https://user-images.githubusercontent.com/18409088/129465496-16793a8e-eadb-44a3-a2b2-5a89f7ff0301.jpg" alt="book logo" width="28">](https://www.amazon.com/-/es/Rudolph-Tanzi-Ph-D/dp/0307956830/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A87X37K64H61&dchild=1&keywords=super+cerebro+deepak+chopra&qid=1628996608&sprefix=super+cere%2Caps%2C314&sr=8-3)
 |
