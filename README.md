@@ -15,6 +15,9 @@
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) 
 | [<img src="https://user-images.githubusercontent.com/18409088/129103060-491eacf3-f899-489f-bfa8-30a48dce8e2c.png" alt="java logo" width="28">](https://.java.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/129431224-fdf06fd0-6459-4fbc-8920-aa3e324759ea.png" alt="node logo" width="28">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/130371521-153cf08c-958b-4775-87b0-42694ec3dd72.png" alt="kubernetes logo" width="28">](https://.com)
+| [<img src="https://user-images.githubusercontent.com/18409088/130371581-5ab1814a-a489-4a23-ac2c-e780a416aa3f.png" alt="docker logo" width="38">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/129103285-8a918572-a7c8-4efe-82e6-8d396fa671d3.png" alt="c++ logo" width="28">](https://.java.com)
 | ![HTML5](https://img.icons8.com/color/30/html-5.png)
 | <img src="https://user-images.githubusercontent.com/18409088/131917347-76b172c2-4d87-4c89-ae98-7d5fd28f97b5.png" alt="mysql logo" width="38">
@@ -32,9 +35,6 @@
 <br>
 - Learning
 
-| [<img src="https://user-images.githubusercontent.com/18409088/129431224-fdf06fd0-6459-4fbc-8920-aa3e324759ea.png" alt="node logo" width="28">](https://.com)
-| [<img src="https://user-images.githubusercontent.com/18409088/130371521-153cf08c-958b-4775-87b0-42694ec3dd72.png" alt="kubernetes logo" width="28">](https://.com)
-| [<img src="https://user-images.githubusercontent.com/18409088/130371581-5ab1814a-a489-4a23-ac2c-e780a416aa3f.png" alt="node logo" width="38">](https://.com)
 | [<img src="https://user-images.githubusercontent.com/18409088/131878932-1bbf611f-a6d3-4147-bfa9-2ff699fca043.png" alt="flutter logo" width="48">](https://.com)
 |
 
