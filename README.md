@@ -35,7 +35,8 @@
 <br>
 - Learning
 
-| [<img src="https://user-images.githubusercontent.com/18409088/131878932-1bbf611f-a6d3-4147-bfa9-2ff699fca043.png" alt="flutter logo" width="48">](https://.com)
+| <img src="https://user-images.githubusercontent.com/18409088/131878932-1bbf611f-a6d3-4147-bfa9-2ff699fca043.png" alt="flutter logo" width="48">
+|<img src="https://user-images.githubusercontent.com/18409088/134434106-1ae59815-8700-4a81-b069-357de1b3064d.png" alt="ANGULAR logo" width="38">
 |
 
 - student online
