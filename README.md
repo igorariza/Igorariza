@@ -3,7 +3,8 @@
     <img src="https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif" width="44px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <br> 
-  I'm Igor Ariza
+  I'm Igor Ariza <br>
+  Developer Full Stack
 </h1>
 
 ### Programming Languages 🌐
