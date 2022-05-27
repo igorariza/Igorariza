@@ -42,6 +42,7 @@
 
 | <img src="https://user-images.githubusercontent.com/18409088/131878932-1bbf611f-a6d3-4147-bfa9-2ff699fca043.png" alt="flutter logo" width="48">
 | <img src="https://user-images.githubusercontent.com/18409088/149630907-ada1f82d-bcf5-40a9-8fb7-3de4fcfad252.png" alt="tensorflow logo" width="30">
+| <img src="https://user-images.githubusercontent.com/18409088/170609811-b8fad095-0a16-4314-9e42-8739735cb343.png" alt="tensorflow logo" width="60">
 
 ### student online
 
@@ -60,12 +61,16 @@
 
 
 - Current readign <br>
-Domótica E Inmótica Instalaciones De Telecomunicaciones. - *Carlos Fernandez Valdivielso (Autor)* - 
-[book](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
-| [<img src="https://user-images.githubusercontent.com/18409088/131766995-e7e25671-d6cc-4ead-a7ba-1719d182a7f2.jpg" alt="book logo" width="28">](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
+-Cloud Native Go: Building Reliable Services in Unreliable Environments. - *Matthew A. Titmus (Author)* - 
+[book](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
+| [<img src="https://user-images.githubusercontent.com/18409088/170610445-acb81fcb-4440-48ee-bd16-e0701daddc81.jpeg" alt="book logo" width="28">](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
 |
 
 - Lastet readign <br>
+Domótica E Inmótica Instalaciones De Telecomunicaciones. - *Carlos Fernandez Valdivielso (Autor)* - 
+[book](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
+| [<img src="https://user-images.githubusercontent.com/18409088/131766995-e7e25671-d6cc-4ead-a7ba-1719d182a7f2.jpg" alt="book logo" width="28">](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
+|<br>
 Supercerebro - *Deepak Chopra* - [book](https://www.amazon.com/-/es/Rudolph-Tanzi-Ph-D/dp/0307956830/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A87X37K64H61&dchild=1&keywords=super+cerebro+deepak+chopra&qid=1628996608&sprefix=super+cere%2Caps%2C314&sr=8-3)
 | [<img src="https://user-images.githubusercontent.com/18409088/129465496-16793a8e-eadb-44a3-a2b2-5a89f7ff0301.jpg" alt="book logo" width="28">](https://www.amazon.com/-/es/Rudolph-Tanzi-Ph-D/dp/0307956830/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3A87X37K64H61&dchild=1&keywords=super+cerebro+deepak+chopra&qid=1628996608&sprefix=super+cere%2Caps%2C314&sr=8-3)
 |
