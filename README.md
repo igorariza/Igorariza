@@ -1,7 +1,6 @@
 <h1 align="center">
   <a target="_blank">
-<img src="[https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif](https://user-images.githubusercontent.com/18409088/205685322-0045555e-f6f4-44c8-864b-0c6481966dec.gif)" width="20px" style="max-width:80%;"> 
-    <img src="[https://user-images.githubusercontent.com/18409088/205685322-0045555e-f6f4-44c8-864b-0c6481966dec.gif](https://user-images.githubusercontent.com/18409088/205685322-0045555e-f6f4-44c8-864b-0c6481966dec.gif)" width="20px" style="max-width:80%;">
+<img src="https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif" alt="Agriculture" width="54">
     
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <br> 
