@@ -11,7 +11,8 @@
 # Programming Languages / Tools 🌐
 ## K8s
 
-| [<img src="[https://user-images.githubusercontent.com/18409088/129100018-c75e1ca5-3c0d-4f2a-949a-2d376aae09be.png](https://user-images.githubusercontent.com/18409088/208947311-1cc719a2-ca88-4dcd-bb3a-7f24d52e6868.png)" alt="elastic search logo" width="24">](https://www.elastic.co/es/)
+
+| [<img src="https://user-images.githubusercontent.com/18409088/208948885-0b177930-8c62-4673-bef7-fe5a06cefa98.png" alt="react native logo" width="54">](https://www.elastic.co/es/)
 | 
 
 ## Fronted
