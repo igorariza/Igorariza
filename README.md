@@ -1,4 +1,4 @@
-<h1 align="justify">
+<h1 align="center">
   <a target="_blank">
 <img src="https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif" alt="Agriculture" width="54">
     
@@ -7,7 +7,7 @@
   I'm Igor Ariza <br>
   Developer Full Stack
 </h1>
-<h2>
+<h2 align="justify">
 Lead Backend Engineer | Developer | #FullStack | #Agtech | Backend | #Golang | GRPC | Kafka | #k8s | Docker| Frontend| Angular | React js| Mobile| Android | IOS | Flutter | Firebase | Kubernetes | #Microservices | #Edtech | #Solidity | #Blockchain
 </h2>
 
