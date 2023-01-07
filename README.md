@@ -68,12 +68,17 @@
 
 
 - Current readign <br>
--Cloud Native Go: Building Reliable Services in Unreliable Environments. - *Matthew A. Titmus (Author)* - 
-[book](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
-| [<img src="https://user-images.githubusercontent.com/18409088/170610445-acb81fcb-4440-48ee-bd16-e0701daddc81.jpeg" alt="book logo" width="28">](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
+-Homo Deus: De animales a dioses, augura un mundo no tan lejano en el cual nos veremos enfrentados a una nueva serie de retos. - *Por Yuval Harari (Author)* - 
+[book]([https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254])
+| [<img src="https://user-images.githubusercontent.com/18409088/211171666-f05ae105-7f03-406f-8858-cf54733fbf59.png" alt="book logo" width="28">](https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254)
 |
 
 - Lastet readign <br>
+
+-Cloud Native Go: Building Reliable Services in Unreliable Environments. - *Matthew A. Titmus (Author)* - 
+[book](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
+| [<img src="https://user-images.githubusercontent.com/18409088/170610445-acb81fcb-4440-48ee-bd16-e0701daddc81.jpeg" alt="book logo" width="28">](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
+|<br>
 Domótica E Inmótica Instalaciones De Telecomunicaciones. - *Carlos Fernandez Valdivielso (Autor)* - 
 [book](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
 | [<img src="https://user-images.githubusercontent.com/18409088/131766995-e7e25671-d6cc-4ead-a7ba-1719d182a7f2.jpg" alt="book logo" width="28">](https://www.amazon.es/Domotica-Inmotica-Instalaciones-Telecomunicaciones-Edificaciones/dp/6076225599)
