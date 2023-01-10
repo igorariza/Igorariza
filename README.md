@@ -1,14 +1,14 @@
-<h1 align="center">
+<h2 align="center">
   <a target="_blank">
 <img src="https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif" alt="Agriculture" width="54">
     
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <br> 
-  I'm Igor Ariza <br>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! I'm Igor Ariza <br>
+  Technical Lead Backend software Engineer micro-services and kubernetes <br>
   Developer Full Stack
-</h1>
+</h2>
 <h2 align="justify">
-Lead Backend Engineer | Developer | #FullStack | #Agtech | Backend | #Golang | GRPC | Kafka | #k8s | Docker | Frontend | Angular | React js| Mobile| Android | IOS | Flutter | Firebase | Kubernetes | #Microservices | #Edtech | #Solidity | #Blockchain
+Lead Backend Engineer | Developer | #FullStack | #Agtech | Backend | #Golang | GRPC | Kafka | #k8s | Docker | Frontend | Angular | React js| Mobile| Android | IOS | Flutter | Firebase | Kubernetes | #Microservices | #Edtech | #Solidity | #Blockchain | Elastic Search | Teach | Prometheus | GRPC | Docker | Frontend | Angular | React js| Mobile| Android | IOS | Flutter | Firebase | Kubernetes | #Microservices | #Edtech | #Solidity | #Blockchain
 </h2>
 
 # Programming Languages / Tools 🌐
