@@ -8,7 +8,7 @@
   Developer Full Stack
 </h2>
 <h2 align="justify">
-Lead Backend Engineer | Developer | #FullStack | #Agtech | Backend | #Golang | GRPC | Kafka | #k8s | Docker | Frontend | Angular | React js| Mobile| Android | IOS | Flutter | Firebase | Kubernetes | #Microservices | #Edtech | #Solidity | #Blockchain | Elastic Search | Teach | Prometheus | ArgoCD | Tekton | Go-Zero | Firebase | 
+Kubernetes Administration CKA+CKS | Lead Backend Engineer | Developer | #FullStack | #Agtech | Backend | #Golang | GRPC | Kafka | #k8s | Docker | Frontend | Angular | React js| Mobile| Android | IOS | Flutter | Firebase | Kubernetes | #Microservices | #Edtech | #Solidity | #Blockchain | Elastic Search | Teach | Prometheus | ArgoCD | Tekton | Go-Zero | Firebase | 
 </h2>
 
 # Programming Languages / Tools 🌐
