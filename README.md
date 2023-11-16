@@ -70,15 +70,22 @@ Kubernetes Administration CKA+CKS | Lead Backend Engineer | Developer | #FullSta
 | [<img src="https://user-images.githubusercontent.com/18409088/130375861-07fb1a0c-1248-46a2-bdcb-56282adfb4a2.png" alt=" logo" width="38">](https://.com)
 
 
-- Current readign <br>
--Homo Deus: De animales a dioses, augura un mundo no tan lejano en el cual nos veremos enfrentados a una nueva serie de retos. - *Por Yuval Harari (Author)* - 
-[book]([https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254])
-| [<img src="https://user-images.githubusercontent.com/18409088/211171666-f05ae105-7f03-406f-8858-cf54733fbf59.png" alt="book logo" width="28">](https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254)
+### Current readign <br>
+- Satán: Una Autobiografía de Nuestros Gran Oponente, el ego. - *Por Yehuda Berg (Author)* - 
+[book]([[https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254](https://www.buscalibre.com.co/libro-satan-una-autobiografia-de-nuestros-gran-oponente-el-ego/9781571896490/p/3146216)])
+| [<img src="https://github.com/igorariza/go-rickandmorty-login/assets/18409088/52ee469d-461d-41d8-a026-b4074998223c" alt="book logo" width="28">](https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254)
 |
 
-- Lastet readign <br>
-
--Cloud Native Go: Building Reliable Services in Unreliable Environments. - *Matthew A. Titmus (Author)* - 
+### Lastet readign <br>
+- El Cuerpo Habla: Aprenderás de una forma amena y fácil a interpretar las señales no verbales que los demás emiten inconscientemente. - *Por Joe Navarro (Author)* - 
+[book]([https://github.com/igorariza/go-rickandmorty-login/assets/18409088/134ab60d-3914-4b09-8c81-f97ab3d30eed])
+| [<img src="https://github.com/igorariza/go-rickandmorty-login/assets/18409088/134ab60d-3914-4b09-8c81-f97ab3d30eed" alt="book logo" width="28">]([https://www.buscalibre.com.co/libro-el-cuerpo-habla/9788478087181/p/3170524](https://github.com/igorariza/go-rickandmorty-login/assets/18409088/134ab60d-3914-4b09-8c81-f97ab3d30eed))
+|<br>
+- Homo Deus: De animales a dioses, augura un mundo no tan lejano en el cual nos veremos enfrentados a una nueva serie de retos. - *Por Yuval Harari (Author)* - 
+[book]([https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254])
+| [<img src="https://user-images.githubusercontent.com/18409088/211171666-f05ae105-7f03-406f-8858-cf54733fbf59.png" alt="book logo" width="28">](https://www.buscalibre.com.co/libro-homo-deus/9789588931623/p/47790254)
+|<br>
+- Cloud Native Go: Building Reliable Services in Unreliable Environments. - *Matthew A. Titmus (Author)* - 
 [book](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
 | [<img src="https://user-images.githubusercontent.com/18409088/170610445-acb81fcb-4440-48ee-bd16-e0701daddc81.jpeg" alt="book logo" width="28">](https://www.amazon.com/-/es/Matthew-Titmus/dp/1492076333)
 |<br>
