@@ -1,15 +1,23 @@
 <h2 align="center">
   <a target="_blank">
-<img src="https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif" alt="Agriculture" width="54">
-    
+    <img src="https://user-images.githubusercontent.com/18409088/129069754-c41e7b3a-8e6c-4a6d-a558-648e7203139f.gif" alt="Agriculture" width="54">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! I'm Igor Ariza <br>
-  Technical Lead Backend software Engineer micro-services and kubernetes <br>
-  Developer Full Stack
+  🚀 Technical Lead Backend Engineer | Microservices & Kubernetes Expert <br>
+  💻 Full Stack Developer | Cloud & Security 🔒
 </h2>
-<h2 align="justify">
-🚀 Kubernetes Administration CKA+CKS | Lead Backend Engineer | Full Stack Developer | Machine Leraning | Python | #Agtech Enthusiast 🌱 | Golang | GRPC | Kafka | Frontend | Mobile (Android/iOS) | DB | Microservices | Cloud | Security Expert 🔒
-</h2>
+
+<h3 align="justify">
+🔥 Core Skills:
+- 🚀 Kubernetes Administration (CKA + CKS)  
+- 🏗️ Lead Backend Engineer | Microservices Architecture  
+- ⚡ Full Stack Development (Frontend & Backend)  
+- 🤖 Machine Learning | Python | Golang | GRPC | Kafka  
+- 📱 Mobile Development (Android/iOS)  
+- ☁️ Cloud | Security Expert | DevOps & CI/CD  
+- 🌱 Passionate about AgTech & Blockchain  
+</h3>
+
 # Programming Languages / Tools 🌐
 ## K8s
 
